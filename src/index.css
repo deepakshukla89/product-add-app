@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); 
+/* font-family: 'Lato', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+/* font-family: 'Mukta', sans-serif; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(230, 230, 230);
+}
+.button {
+    background-color: #008f05; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    margin: 10px;
+    font-size: 16px;
+}
+.button1{
+    background-color: brown;
+}
+.heading_style_changed{
+    color: crimson;
+}
+.addToCart{
+    border: 1px solid rgb(196, 196, 196);
+    text-align: center;
+    width: 350px;
+    margin: 30vh auto;
+    box-shadow: black 1px 1px 5px .1px;
+    background-color: white;
+    border-radius: 5px;
+}
+.heading_style{
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 119, 119);
+}
